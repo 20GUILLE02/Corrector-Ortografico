@@ -1,4 +1,4 @@
-# Corrector-Ortografico
+# Corrector-Ortografico - Diciembre 2022
 El programa es un corrector ortografico basado en el corrector ISPELL
 el cual toma un archivo a corregir, un diccionario y un archivo que puede tener
 sugerencias previamente calculadas o puede estar vacio.
